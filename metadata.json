@@ -1,0 +1,5 @@
+{
+  "name": "Trading Analysis Dashboard",
+  "description": "A dashboard for analyzing financial charts, featuring a chart display and an image upload component for analysis.",
+  "requestFramePermissions": []
+}
